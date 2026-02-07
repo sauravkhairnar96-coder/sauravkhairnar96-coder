@@ -1,27 +1,82 @@
-## Hi there, I'm Saurav! 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Saurav!;Final+Year+Engineering+Student;Data+Analyst+Enthusiast;SQL+%26+Python+Developer;Creative+Thinker&center=true&width=600&height=50&color=2ebae6&vCenter=true&size=28" alt="Typing SVG">
+</h1>
 
-I'm a **Final Year Computer Engineering Student** at **GCOERC**, currently based in **Pune, Maharashtra**.
+<p align="center">
+  <b>Final Year Computer Engineering Student @ GCOERC | Based in Pune, Maharashtra</b><br>
+  Transitioning into <b>Data Analytics</b> | Upskilling at <b>Fullstack Guru</b>
+</p>
 
-I am transitioning into the world of Data Analytics, currently upskilling at **Fullstack Guru**. I love uncovering insights from data and have a strong foundation in SQL and Python.
+<p align="center">
+  I bridge the gap between <b>engineering logic</b>, <b>creative design</b>, and <b>data-driven insights</b>.
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sauravkhairnar96-coder&show_icons=true&theme=radical&hide_border=true" alt="Saurav's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravkhairnar96-coder&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📊 About Me
 
 - 🔭 **I’m currently working on ...**
-  - A **Smart Animal Health Monitoring System** (IoT-based academic project).
+  - **Smart Animal Health Monitoring System:** A Final Year academic project using IoT sensors.
+  - **Cat Donation & Adoption Platform:** Designing the user flow and architecture.
 
 - 🌱 **I’m currently learning ...**
-  - **Data Analytics** (Focusing on actionable insights).
-  - **SQL** (Specializing in **Oracle Database XE 11.2**).
-  - **Python** for data manipulation.
-
-- 👯 **I’m looking to collaborate on ...**
-  - Data visualization projects.
+  - **Data Analytics:** Mastering the art of finding insights.
+  - **Python Logic:** Focusing on efficient code (loops, conditionals, and math logic).
 
 - 💼 **I’m looking for ...**
-  - **Data Analyst (Fresher)** roles in Pune.
-  - Opportunities to apply my engineering background to business problems.
+  - **Data Analyst (Fresher)** roles in Pune (Available mid-2026).
+  - Opportunities to work with SQL and Data Visualization.
 
 - 💬 **Ask me about ...**
-  - **SQL Queries** (Joins, `ADD_MONTHS`, Timestamp logic).
+  - **SQL Queries:** especially date functions (`ADD_MONTHS`, `TIMESTAMP`).
+  - **Graphic Design:** Layouts and User Experience.
+  - **Game Lore:** I enjoy discussing game mechanics and stories.
 
-- 📫 **How to reach me:**
-  - **Email:** [sauravkhairnar96@gmail.com]
-  - **LinkedIn:** [https://www.linkedin.com/in/sauravkhairnar/]
+- ⚡ **Fun fact:**
+  - I love diving into **GTA V Roleplay servers** to craft detailed character backstories and explore open-world lore!
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
+  </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/> 
+  </a>
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="50" height="50"/> 
+  </a>
+</p>
+
+* **Database:** Oracle Database XE 11.2
+* **Key SQL Skills:** `ADD_MONTHS`, `MONTHS_BETWEEN`, Timestamp logic, `COUNT` functions.
+* **Domains:** Data Analysis, IoT, UI/UX Design.
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/your-profile" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+* **Phone:** +91-7498690617
+
+<p align="right">
+  <img src="https://profile-counter.glitch.me/sauravkhairnar96-coder/count.svg" alt="Visitor Count" />
+</p>
