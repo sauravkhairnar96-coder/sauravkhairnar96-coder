@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there, I'm Saurav! 👋
 
-<!--
-**sauravkhairnar96-coder/sauravkhairnar96-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Final Year Computer Engineering Student** at **GCOERC**, currently based in **Pune, Maharashtra**.
 
-Here are some ideas to get you started:
+I am transitioning into the world of Data Analytics, currently upskilling at **Fullstack Guru**. I love uncovering insights from data and have a strong foundation in SQL and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **I’m currently working on ...**
+  - A **Smart Animal Health Monitoring System** (IoT-based academic project).
+
+- 🌱 **I’m currently learning ...**
+  - **Data Analytics** (Focusing on actionable insights).
+  - **SQL** (Specializing in **Oracle Database XE 11.2**).
+  - **Python** for data manipulation.
+
+- 👯 **I’m looking to collaborate on ...**
+  - Data visualization projects.
+
+- 💼 **I’m looking for ...**
+  - **Data Analyst (Fresher)** roles in Pune.
+  - Opportunities to apply my engineering background to business problems.
+
+- 💬 **Ask me about ...**
+  - **SQL Queries** (Joins, `ADD_MONTHS`, Timestamp logic).
+
+- 📫 **How to reach me:**
+  - **Email:** [sauravkhairnar96@gmail.com]
+  - **LinkedIn:** [https://www.linkedin.com/in/sauravkhairnar/]
