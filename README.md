@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Saurav!;Final+Year+Engineering+Student;Data+Analyst+Enthusiast;SQL+%26+Python+Developer;Creative+Thinker&center=true&width=600&height=50&color=2ebae6&vCenter=true&size=28" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Saurav!;Final+Year+Engineering+Student;Data+Analyst+Enthusiast;SQL+%26+Python+Developer;Creative+Thinker&center=true&width=800&height=50&color=2ebae6&vCenter=true&size=28" alt="Typing SVG">
 </h1>
 
 <p align="center">
@@ -9,13 +9,6 @@
 
 <p align="center">
   I bridge the gap between <b>engineering logic</b>, <b>creative design</b>, and <b>data-driven insights</b>.
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sauravkhairnar96-coder&show_icons=true&theme=radical&hide_border=true" alt="Saurav's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravkhairnar96-coder&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -73,10 +66,4 @@
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
-* **Phone:** +91-7498690617
-
-<p align="right">
-  <img src="https://profile-counter.glitch.me/sauravkhairnar96-coder/count.svg" alt="Visitor Count" />
 </p>
