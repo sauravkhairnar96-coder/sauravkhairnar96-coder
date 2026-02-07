@@ -17,7 +17,6 @@
 
 - 🔭 **I’m currently working on ...**
   - **Smart Animal Health Monitoring System:** A Final Year academic project using IoT sensors.
-  - **Cat Donation & Adoption Platform:** Designing the user flow and architecture.
 
 - 🌱 **I’m currently learning ...**
   - **Data Analytics:** Mastering the art of finding insights.
@@ -31,9 +30,6 @@
   - **SQL Queries:** especially date functions (`ADD_MONTHS`, `TIMESTAMP`).
   - **Graphic Design:** Layouts and User Experience.
   - **Game Lore:** I enjoy discussing game mechanics and stories.
-
-- ⚡ **Fun fact:**
-  - I love diving into **GTA V Roleplay servers** to craft detailed character backstories and explore open-world lore!
 
 ---
 
