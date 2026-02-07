@@ -1,4 +1,8 @@
 ## Hi there, I'm Saurav! 👋
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Your Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 I'm a **Final Year Computer Engineering Student** at **GCOERC**, currently based in **Pune, Maharashtra**.
 
