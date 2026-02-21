@@ -49,7 +49,7 @@
 
 * **Database:** Oracle Database XE 11.2
 * **Key SQL Skills:** `ADD_MONTHS`, `MONTHS_BETWEEN`, Timestamp logic, `COUNT` functions.
-* **Domains:** Data Analysis, IoT, UI/UX Design.
+* **Domains:** Data Analysis, IoT.
 
 ---
 
