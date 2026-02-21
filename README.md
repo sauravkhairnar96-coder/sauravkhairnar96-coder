@@ -28,7 +28,6 @@
 
 - 💬 **Ask me about ...**
   - **SQL Queries:** especially date functions (`ADD_MONTHS`, `TIMESTAMP`).
-  - **Graphic Design:** Layouts and User Experience.
   - **Game Lore:** I enjoy discussing game mechanics and stories.
 
 ---
